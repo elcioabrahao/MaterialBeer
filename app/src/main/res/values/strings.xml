@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Material Beer</string>
+
+    <string name="drawer_open">Slider Menu Aberto</string>
+    <string name="drawer_close">Slider Menu Fechado</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="activity_detail_title">DetailActivity</string>
+
+    <string name="drawer_switch">Switch</string>
+    <string name="drawer_usjt">Libs utilizadas neste projeto</string>
+    <string name="drawer_sobre">Sobre Projeto ARQDESIS-USJT</string>
+
+    <string name="dialog_nointernet">Sem conexão com a internet!</string>
+    <string name="dialog_uploading">Progress Sample&#8230;</string>
+    <string name="dialog_processinganduploading">Showing a sample progress. Please be patient! (This does nothing. Just waiting 100ms / application)</string>
+    <string name="title_activity_beer_chooser">BeerChooserActivity</string>
+    <string name="title_activity_sobre">SobreActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="sobre">Material Beer é um software desenvolvido para a disciplina de Arquitetura de Sistemas Distribuidos da Universidade São Judas Tadeu para demonstrar a utilização do bibliotecas do Material Design da Google.\nAutor: Prof. Elcio Abrahão\nServiço Rest: Prof. Antonio Sérgio Bonato\nEste software está disponível no GITHUB. Pode ser copiado sem citar fonte.</string>
+    <string name="sobre_texto">Sobre o Material Beer</string>
+
+</resources>
